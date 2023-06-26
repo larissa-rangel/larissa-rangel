@@ -11,7 +11,8 @@
   <a href="www.linkedin.com/in/larissarangelazevedo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Larissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=larissa-rangel&show_icons=true&theme=dracula)
+![Larissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=larissa-rangel&show_icons=true&theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larissa-rangel&show_icons=true&theme=buefy)](https://github.com/larissa-rangel/github-readme-stats)
 
 ### Tecnologias que uso no meu dia a dia
 <div style="display: inline_block"><br>
