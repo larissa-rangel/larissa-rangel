@@ -1,4 +1,4 @@
-### Olá eu sou a Larissa Rangel 👋
+### Olá sou a Larissa 👋
 
 - 🔭 Estou fazendo pós-graduação na área de processamento digital de sinais
 - 🌱 Estou aprendendo machine learning e IA
