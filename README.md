@@ -2,7 +2,7 @@
 
 - 🔭 Estou fazendo pós-graduação na área de processamento digital de sinais
 - 🌱 Estou aprendendo machine learning e IA
-- 👯 Procuro colaborar compartilhando meus repositórios
+- 👯 Colaborar compartilhando meus repositórios
 - 😄 Pronomes: ela/dela
   
 ### Entre em contato
